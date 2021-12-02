@@ -14,6 +14,9 @@ const images = [
   { 'id': 11, 'url':'./imagens/Pamela e Vinícius 297.jpg' },
   { 'id': 12, 'url':'./imagens/Pamela e Vinícius 303.jpg' },
   { 'id': 13, 'url':'./imagens/Pamela e Vinícius 223.jpg' },
+  { 'id': 14, 'url':'./imagens/Pam & Sogro.jpeg' },
+  { 'id': 15, 'url':'./imagens/Vini & Pam.jpeg' },
+  { 'id': 16, 'url':'./imagens/Vini & Pam 2.jpeg' },
 ]
 
 const containerItems = document.querySelector('#container-items');
